@@ -20,7 +20,7 @@ Available choices for player: from 1 to 3, each integer refers to a door: first,
     - Car is not behind this door
 - Calculatingly, from the users point of view, the probability, that car is behind the next closed door is equal to 66.(6)%, because:
     - A vs B + C = 33(3)% vs 66(6)%
-    - Door has been opened, but probability still consists, nothing in probability of where the car is.
+    - Door has been opened, but probability still consists, nothing in probability of where the car was changed.
     - Remaining door accumulates the probability of itself and the opened door, which is 66(6)%
 - This proves that it is worth to change initial choice
 
